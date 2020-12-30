@@ -1,0 +1,26 @@
+conda version(4.9.2)  {									      }
+python version (3.8.5){ https://repo.anaconda.com/archive/Anaconda3-2020.11-Windows-x86_64.exe }
+
+install microsoft office 2019
+
+install tessaract application from this url 
+( https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe )
+
+
+comands to be run on python console:
+
+** pip install PyPDF2
+
+** pip install PyMuPDF
+
+** pip install pdfminer
+
+** pip install opencv-python
+
+** pip install pytesseract
+
+** pip install flask
+
+** pip install flask-wtf
+
+
